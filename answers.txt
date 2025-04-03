@@ -1,0 +1,6 @@
+1.Props helps us to use react in a more data driven manner. We don't have to hard code everything instead we use props to increase reusability.
+2. A space, write the name of the prop, then '=' the value of the prop
+3.you can't because that prop is not defined in the native dom element's component
+4. As a parameter to the function definition of the prop, any name you want.
+
+5. It is a javascript objects
